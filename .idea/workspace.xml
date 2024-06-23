@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6b6e57d-1eea-40d8-87ab-fdb1cea40e39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/DescriptionPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/FooterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/SidebarPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/CartTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/CheckoutTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/DescriptionTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/FooterTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/SidebarTests.java" afterDir="false" />
+    <list default="true" id="c6b6e57d-1eea-40d8-87ab-fdb1cea40e39" name="Changes" comment="Initial commit: first version of the project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +74,7 @@
     "TestNG.SidebarTests.hamburgerMenuCloseButtonWorks.executor": "Run",
     "TestNG.SidebarTests.hamburgerMenuLogoutButtonWorks.executor": "Run",
     "TestNG.Tests.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
@@ -204,10 +185,38 @@
       <option name="presentableId" value="Default" />
       <updated>1718389746740</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit: first version of the project">
+      <option name="closed" value="true" />
+      <created>1719176451182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719176451183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit: first version of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit: first version of the project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
