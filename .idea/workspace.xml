@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6b6e57d-1eea-40d8-87ab-fdb1cea40e39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/DescriptionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/FooterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/SidebarPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/CartTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/CheckoutTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/DescriptionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/FooterTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/SidebarTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hsjZTUzZsTKC9QWBREAWssjQ3L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.CartTests.cartHasAllSelectedItemsDisplayed.executor": "Run",
+    "TestNG.CartTests.checkoutButtonWorks.executor": "Run",
+    "TestNG.CartTests.continueShoppingButtonWorks.executor": "Run",
+    "TestNG.CartTests.executor": "Run",
+    "TestNG.CartTests.removeButtonOnCartPageWorks.executor": "Run",
+    "TestNG.CartTests.userCanAddItemToCart.executor": "Run",
+    "TestNG.CartTests.userCanRemoveItemFromCart.executor": "Run",
+    "TestNG.CheckoutTests.backHomeButtonWorks.executor": "Run",
+    "TestNG.CheckoutTests.cancelButtonWorks.executor": "Run",
+    "TestNG.CheckoutTests.executor": "Run",
+    "TestNG.CheckoutTests.taxIsCorrect.executor": "Run",
+    "TestNG.CheckoutTests.totalPriceIsCorrect.executor": "Run",
+    "TestNG.CheckoutTests.userCanFinishPurchase.executor": "Run",
+    "TestNG.CheckoutTests.userCanSubmitFormWithFilledMandatoryFields.executor": "Run",
+    "TestNG.CheckoutTests.userCannotSubmitFormWithoutFillingFirstNameField.executor": "Run",
+    "TestNG.CheckoutTests.userCannotSubmitFormWithoutFillingLastNameField.executor": "Run",
+    "TestNG.CheckoutTests.userCannotSubmitFormWithoutFillingMandatoryFields.executor": "Run",
+    "TestNG.CheckoutTests.userCannotSubmitFormWithoutFillingPostalCodeField.executor": "Run",
+    "TestNG.DescriptionTests.backToProductsButtonWorksOnDescriptionPage.executor": "Run",
+    "TestNG.DescriptionTests.itemCanBeAddedToCartOnDescriptionPage.executor": "Run",
+    "TestNG.DescriptionTests.itemCanBeRemovedFromCartOnDescriptionPage.executor": "Run",
+    "TestNG.DescriptionTests.itemHasDescriptionPage.executor": "Run",
+    "TestNG.FooterTests.executor": "Run",
+    "TestNG.FooterTests.facebookIconIsProperlyHyperlinked.executor": "Run",
+    "TestNG.FooterTests.linkedInIconIsProperlyHyperlinked.executor": "Run",
+    "TestNG.FooterTests.twitterIconIsProperlyHyperlinked.executor": "Run",
+    "TestNG.LoginTests.executor": "Run",
+    "TestNG.LoginTests.userCanLogInWithValidCredentials.executor": "Run",
+    "TestNG.LoginTests.userCannotLogInWithEmptyCredentials.executor": "Run",
+    "TestNG.LoginTests.userCannotLogInWithEmptyPasswordField.executor": "Run",
+    "TestNG.LoginTests.userCannotLogInWithEmptyUsernameField.executor": "Run",
+    "TestNG.SidebarTests.executor": "Run",
+    "TestNG.SidebarTests.hamburgerMenuAboutButtonWorks.executor": "Run",
+    "TestNG.SidebarTests.hamburgerMenuButtonWorks.executor": "Run",
+    "TestNG.SidebarTests.hamburgerMenuCloseButtonWorks.executor": "Run",
+    "TestNG.SidebarTests.hamburgerMenuLogoutButtonWorks.executor": "Run",
+    "TestNG.Tests.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Tests">
+    <configuration name="CartTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.CartTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.CheckoutTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTests.taxIsCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.CheckoutTests" />
+      <option name="METHOD_NAME" value="taxIsCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTests.totalPriceIsCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.CheckoutTests" />
+      <option name="METHOD_NAME" value="totalPriceIsCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Tests" />
+        <item itemvalue="TestNG.CheckoutTests" />
+        <item itemvalue="TestNG.CheckoutTests.taxIsCorrect" />
+        <item itemvalue="TestNG.CheckoutTests.totalPriceIsCorrect" />
+        <item itemvalue="TestNG.CartTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6b6e57d-1eea-40d8-87ab-fdb1cea40e39" name="Changes" comment="" />
+      <created>1718389746740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718389746740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/CartTests.java</url>
+          <line>89</line>
+          <properties class="Tests.CartTests" method="checkoutButtonWorks">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
