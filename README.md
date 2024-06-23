@@ -28,7 +28,7 @@ Files:
 * SauceDemoTestCases.xlsx - Contains all the test cases used for the project
 * .gitignore - File used to store all items that are not pushed to github
 
-## Naming convention
+## Naming Convention
 * Classes are written in camel case with first character in upper case
 * Methods are written in camel case with first character in lower case
 * Class objects are named the same as a class name with lower case for first character
