@@ -158,6 +158,8 @@ public class CheckoutTests extends BaseTest {
         Assert.assertEquals(checkoutPage.getCheckoutHeader().getText(), mainPage.getMainPageHeaderText());
     }
 
+    // place for future price check tests
+
 
     @AfterMethod
     public void resetPage (){

@@ -23,6 +23,7 @@ public class MainPage {
     String expectedText = "Swag Labs";
     String savedItemName = "";
     String mainPageHeaderText = "Products";
+    WebElement sortIcon;
 
 
     public MainPage(WebDriver driver) {
@@ -75,6 +76,10 @@ public class MainPage {
 
     public String getMainPageHeaderText() {
         return mainPageHeaderText;
+    }
+
+    public WebElement getSortIcon() {
+        return driver.findElement(By.className("product_sort_container"));
     }
 
     // ---------------------------------
